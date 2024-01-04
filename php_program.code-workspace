@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\php_program"
+		},
+		{
+			"path": "..\\food_order"
+		},
+		{
+			"path": "components"
+		}
+	],
+	"settings": {}
+}
